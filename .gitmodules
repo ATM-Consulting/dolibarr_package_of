@@ -1,0 +1,11 @@
+[submodule "htdocs/workstation"]
+	path = htdocs/workstation
+	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+	branch = 1.0
+[submodule "htdocs/nomenclature"]
+	path = htdocs/nomenclature
+	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
+	branch = 1.0
+[submodule "htdocs/of"]
+	path = htdocs/of
+	url = git@github.com:ATM-Consulting/dolibarr_module_of.git
