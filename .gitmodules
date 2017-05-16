@@ -9,3 +9,6 @@
 [submodule "htdocs/of"]
 	path = htdocs/of
 	url = git@github.com:ATM-Consulting/dolibarr_module_of.git
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
